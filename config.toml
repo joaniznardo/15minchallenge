@@ -1,0 +1,5 @@
+baseURL = "https://joaniznardo.github.com/15minchallenge/"
+languageCode = "en-us"
+title = "just 4 fun"
+publishDir = "docs"
+theme = "color-your-world"
